@@ -1,4 +1,4 @@
-package com.lorgio.labs.netty.discard;
+package com.lorgio.labs.netty.basic;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;

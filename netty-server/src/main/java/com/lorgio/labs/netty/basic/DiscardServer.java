@@ -1,4 +1,4 @@
-package com.lorgio.labs.netty.discard;
+package com.lorgio.labs.netty.basic;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;

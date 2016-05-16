@@ -1,10 +1,9 @@
-package com.lorgio.labs.netty.discard;
+package com.lorgio.labs.netty.basic;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 import io.netty.util.ReferenceCountUtil;
-import io.netty.util.ReferenceCounted;
 
 /**
  * Created by lorgiotrinidad on 15-05-16.
